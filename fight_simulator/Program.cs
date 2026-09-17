@@ -22,7 +22,7 @@ else if (namernd == 1)
 }
 else if (namernd == 2)
 {
-    oppname = "b";
+    oppname = "Dracula";
 }
 
 
